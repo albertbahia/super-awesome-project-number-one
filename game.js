@@ -1,4 +1,3 @@
 console.log('super awesome game');
+console.log('what should we do?');
 
-
-console.log('boom soooon, such an elite hacker')
